@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_Variables_and_Data_Types;
 
 public class Lab008_part3_Multiple_Variables {
 
