@@ -24,6 +24,10 @@ public class Lab011_print_println_printf {
         System.out.println();
         int table = 9;
         System.out.printf("%dx1=%d", table, table*1);
+        System.out.printf("%dx2=%d",table,table*2);
+
+
+
 
 
     }
